@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fruitybot8282",
+  "private_key_id": "f6ca708df145f5cae5b86c54f1564503f67461f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb5IrFR9PgLkEk\ntok19YPS2gjy9u5Nogq5PRDnaRGGsgyO454tpm/miWhe930VUq1b12cLN8Zu7qLI\n4dO7wf2t+0UEJiEuUDej2nwi8WZmr79R7wH0+qh9qM+JNKkh9mJwZbqyIOqUdZ8P\nEeaC1tUm/381LCDJYYPjTOAz/RR1QPHNh980A+BD5d17t/3AN3EKqwP/BAnNu3na\nP+QOfC/m3p9b+zNMxn0aF+f9qqV3hlRFX6eJMHSYnx0dTGwwvnAvVrglmk5nSjYs\nA0f7h16WoF2ZFT9G/u6A+AwXuHxZUb5aPVDxzAAY4L2mNfw3Q6MInxXhD6ZtMmyA\n6iZ3QDAFAgMBAAECggEAAzfNrjKENaROyka4Vgmk4yUxZRk4JG3GtznYT6aUFYnh\nsiYRsv3fYSIPVP0v3aZQwiIT/vUeSVZEvE0pFT71ER0sOLXeySQfxJKd2GIk9n6v\nPi48W0W8qlIMmAJNxs/dYADsQIFnG5HCqvQiztWcyHV4DJgbbyduVQgBDXcDxUMo\nfELR5UDh5aG1YQkKzXCYqhaqGq1xxTZCe9dz9cxQSg6/pggETBedf7AvxFl7Bdjj\n+RURtEssGdTGclOleT5jQv7qo7qc9KvRWAbzGD/xPeMq8ZCjylsoemEOmH5wj0Gv\nHOegXxcPz+WxEiMBPtqleKvAa0ijTSHwZpN7p8IA2wKBgQDb1FzH23LpwKi0NHp6\nDtcBrWmC7Dzxa8yEbyfyF5kvuWVNR8YBQwg/5163wie99TVXac8K/yVn247QqTlG\nw0am+5ZzKK0nECDcSFzSzHUfyG5EkPfRdOlehmeNhU1OI1uu0v9NLPzgxyg/hTzw\nouJJdGSpR82NZ/W/s7oBNQE6IwKBgQC1iwpTCPEAYbF5X0GVAtQxq8nHNsEUygFv\nU/TBABNlaOrSMw2NWofJNEv6a6fcQDItRljcHaLlsWLgqo5f053aKRa5Hh7S45VW\nQpbi1oDihhVt8/o6QWz81+2iEy9HPzgQfTsPlhziRJmPKSCFwYBKeZlOqWUvLCxl\nDEmd2VFrtwKBgFJeI9WO2GPVmGDNOQb7AHzUaTBxK/SZm6wTqjf/t5o2MUrflcVr\nRHANVWQtD48RjccPElDggTeFAOIWRivJh3OR2TGVECwO0wE26/DgQxKBmy990h1d\nXQPaAHr6c5jPjs7WqGpWbPocJWyHk+nmXjt/rSfwi4hsZ5xIz20cWzVZAoGAfarv\nzKbl3TPDHJdZ2IKKzI90L9ixM2jaMWxWgrtAsfQ8iKEagnzmfdsbtQ+MtSQjF8AY\nhtZlCscOASNPRvo/zOKgfihhge5UU8/ojsGZmjTi5Kf80RK1FRmLv6O0GIekkZV+\nqr1o5SBDhBweDTjzS5p9CzyrdEoJuTEWTJRAjmUCgYEAyFJXiuniomUIUh3Xketr\n1ZIa9iRt2wyfj5O+KlUvdZR6saT+GHRwI/vZLGeIdCuAWBjwF5mlHGrcWkzGI6yI\n2dytdXYIDgt5XsSsD45lwpdURqOx1ZFPKBQR1xHj4MHp6K5+6W84Qxao0nYKx844\n8h5caYTXREexc4tykAhbQtY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fruitybot8282@fruitybot8282.iam.gserviceaccount.com",
+  "client_id": "101888050188939537051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fruitybot8282%40fruitybot8282.iam.gserviceaccount.com"
+}
